@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  font-family: "JetBrains Mono", monospace;
+}
+
+:root {
+  --bg-color: #f2bfac;
+  --second-bg-color: #f2bfac;
+  --text-color: #fff;
+  --main-color: #733d38;
+  --third-color: #eecc90;
+  --fourth-color: rgba(115, 61, 56, 0.616);
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url("../imgs/ddd.webp");
+  background-attachment: fixed;
+  background-size: auto;
+  color: var(--text-color);
+}
