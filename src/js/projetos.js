@@ -73,7 +73,7 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 /* typed js */
 
 const typed = new Typed(".multiple-text", {
-  strings: ["Nail Designerr", "Bem-vinda a minha página!", "Siga-me no Insta!"],
+  strings: ["Nail Designer", "Bem-vinda a minha página!", "Siga-me no Insta!"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
